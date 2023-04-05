@@ -9,6 +9,9 @@
 - The idea is to have a REST API that can be used to query the database and return the results in JSON format.
 - This is one simple resource following the RepositoryRestResource pattern and testing it in a running Docker container locally using the Dockerfile and docker-compose.yml files.
 
+- Screenshots are located under the screenshots folder located in the root directory of the project.  They are in order of the steps taken to build and run the project.
+- In addition, the screenshots are also saved in a word document under the root directory of the project called "SDAT_QAP2_Screenshots.docx".
+
 - Note: Prior to creating the image and running the docker container locally, the database must be created and populated with data and this was done using MySQL Workbench and postman to test the REST API.
 After the database was populated and tested using postman, the Docker image was created and the container was run locally and again tested using postman.
 
