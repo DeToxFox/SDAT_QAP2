@@ -27,5 +27,3 @@ After the database was populated and tested using postman, the Docker image was 
 12. In the terminal command "docker-compose up" to run the container locally.
 13. Once the container is running and no errors are displayed.
 14. Open postman and test the REST API one last time.
-
-![Screen Shot 2023-04-03 at 8.20.22 PM.png](..%2F..%2F..%2F..%2F..%2FScreen%20Shot%202023-04-03%20at%208.20.22%20PM.png)
